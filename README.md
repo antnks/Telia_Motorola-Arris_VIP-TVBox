@@ -1,10 +1,10 @@
 # Telia_Motortola-Arris_VIP-TVBox
 
-### Above
+### Above -> (SDCARD = Slot 2, used for firmware downgrade/upgrade)
 
-![20221220_012451](https://user-images.githubusercontent.com/26827453/208572111-142984aa-a630-4d8f-951f-f9485378a614.jpg)
+![Screenshot_20221220_041738](https://user-images.githubusercontent.com/26827453/208573712-b0bd62f8-e666-4a31-9542-6ad187acf18b.png)
 
-### Under
+### Under 
 
 ![20221220_012440](https://user-images.githubusercontent.com/26827453/208572105-37c56c69-0eb0-48ff-954c-c96886727533.jpg)
 
