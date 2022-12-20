@@ -1,5 +1,19 @@
 # Telia_Motortola-Arris_VIP-TVBox
 
+### Above
+
+![20221220_012451](https://user-images.githubusercontent.com/26827453/208572111-142984aa-a630-4d8f-951f-f9485378a614.jpg)
+
+### Under
+
+![20221220_012440](https://user-images.githubusercontent.com/26827453/208572105-37c56c69-0eb0-48ff-954c-c96886727533.jpg)
+
+### Soldering Pins 
+
+![Screenshot_20221220_040648](https://user-images.githubusercontent.com/26827453/208572585-30da72b9-ecfd-4dbf-81be-6e6baa934a16.png)
+
+
+
 ### General Info
 
 ```
