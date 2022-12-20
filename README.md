@@ -76,7 +76,7 @@ tshark -i vlan_iptv -T fields -e http.request.uri |grep \S
 /iptvgui/ikons_1920x1080/channelIcon_67.png
 /iptvgui/ikons_1920x1080/channelIcon_58.png
 /iptvgui/ikons_1920x1080/channelIcon_270.png
-/iptvgui/ikons_1920x1080/channelIcon_777.png
+/iptvgui/ikons_1920x1080/channelIcon_777.pngtshark
 /iptvgui/ikons_1920x1080/channelIcon_3063.png
 /iptvgui/ikons_1920x1080/channelIcon_3064.png
 /iptvgui/ikons_1920x1080/channelIcon_522.png
@@ -93,7 +93,6 @@ for icons in $(seq 0 1000); do
     http://iptv-icons.telia.se/iptvgui/ikons_1920x1080/channelIcon_${icons}.png; 
 done
 ```
-
 
 We don't get any shell via serial via UART, this is all we gonna see from bootlog
 
@@ -150,7 +149,16 @@ Error: Unable to read name service address from file /tmp/nameservice_address de
 
 ### Firmware
 
-I found the source for Arris firmware, it can be found on url below (i created this script for find the firmwares)
+I found the source for Arris firmware, it can be found on urls below and i created this script for find the firmwares, if you are a user from another country, you can probably find your firmware also if you change "Swe" to your country, check in the menu for the device what the name of the firmware is and you will see how to find the firmware for your country.
+
+It is probably also possible to find more versions and more firmwares if we try bruteforcing the `7 digits` in the url (`http://wpc.97697.teliacdn.net/<xxxxx>/ott/stbimage`) where the folder holds the firmware files, but I haven't had the opportunity to do this yet. It is not a requirement to use their user agent, but do so in order not to appear in their log unnecessarily.
+
+I know there is firmwares available for: 
+
+* Finland
+* Denmark
+* Norway
+* Latvia
 
 ```bash
 #!/usr/bin/env bash
