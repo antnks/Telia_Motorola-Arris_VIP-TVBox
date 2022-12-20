@@ -135,7 +135,9 @@ Error: Unable to read name service address from file /tmp/nameservice_address de
 ⸮^@^@^@
 ```
 
-### I fouind the source of Arris firmware, it can be found on one firmware from my spider crawler
+### Firmware
+
+I found the source for Arris firmware, it can be found on url below (i created this script for find the firmwares)
 
 ```bash
 #!/usr/bin/env bash
