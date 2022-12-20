@@ -14,9 +14,8 @@ Teliasonera rootcva1.................: http://crl-3.trust.teliasonera.com/telias
 Teliasonera Repository Trust CPS.....: http://repository.trust.teliasonera.com/CPS
 Telia OCSP Trust URL.................: http://ocsp.trust.telia.com
 Telia OCSP Trust CSP Download........: https://repository.trust.teliasonera.com/CPS
-TeliaSonera Server cav2.cer file.....: http://repository.trust.teliasonera.com/teliasoneraservercav2.cer
 TeliaSonera root cav1.cer cert.......: http://repository.trust.teliasonera.com/teliasonerarootcav1.cer
-TeliaSonera root cav12.cer cert......: http://repository.trust.teliasonera.com/teliasoneraservercav2.cer
+TeliaSonera Server cav2.cer file.....: http://repository.trust.teliasonera.com/teliasoneraservercav2.cer
 ```
 
 ### Download and Backup your splash theme if you want to replace the splash theme during boot
