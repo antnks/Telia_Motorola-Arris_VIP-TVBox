@@ -194,9 +194,6 @@ done
 * [Firmware 4302Swe](http://wpc.97697.teliacdn.net/8097697/ott/stbimage-4302Swe)
 * [Firmware 5305Swe](http://wpc.97697.teliacdn.net/8097697/ott/stbimage-5305Swe)
 
-![1](https://user-images.githubusercontent.com/26827453/179757161-c131d9a0-0126-4754-b130-2de316f1bfb0.png)
-
-
 ### Download currnet kernel (mask this part so we wont show who we are)
 
 Edit: 
