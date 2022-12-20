@@ -230,3 +230,9 @@ Output:
 </BootParams>
 </StbConfig>
 ```
+
+## Firmware
+
+More info comming soon..
+
+
