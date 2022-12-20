@@ -1,4 +1,4 @@
-# Telia_Motortola-Arris_VIP-TVBox
+# Telia_Motorola-Arris_VIP-TVBox
 
 ### Above -> (SDCARD = Slot 2, used for firmware downgrade/upgrade)
 
