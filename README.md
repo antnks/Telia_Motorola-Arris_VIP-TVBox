@@ -1,4 +1,18 @@
-# TV-box_Telia_Arris_VIP4302
+# Telia_Motortola-Arris_VIP-TVBox
+
+### Above -> (SDCARD = Slot 2, used for firmware downgrade/upgrade)
+
+![Screenshot_20221220_041738](https://user-images.githubusercontent.com/26827453/208573712-b0bd62f8-e666-4a31-9542-6ad187acf18b.png)
+
+### Under 
+
+![20221220_012440](https://user-images.githubusercontent.com/26827453/208572105-37c56c69-0eb0-48ff-954c-c96886727533.jpg)
+
+### Soldering Pins 
+
+![Screenshot_20221220_040648](https://user-images.githubusercontent.com/26827453/208572585-30da72b9-ecfd-4dbf-81be-6e6baa934a16.png)
+
+
 
 ### General Info
 
@@ -14,9 +28,8 @@ Teliasonera rootcva1.................: http://crl-3.trust.teliasonera.com/telias
 Teliasonera Repository Trust CPS.....: http://repository.trust.teliasonera.com/CPS
 Telia OCSP Trust URL.................: http://ocsp.trust.telia.com
 Telia OCSP Trust CSP Download........: https://repository.trust.teliasonera.com/CPS
-TeliaSonera Server cav2.cer file.....: http://repository.trust.teliasonera.com/teliasoneraservercav2.cer
 TeliaSonera root cav1.cer cert.......: http://repository.trust.teliasonera.com/teliasonerarootcav1.cer
-TeliaSonera root cav12.cer cert......: http://repository.trust.teliasonera.com/teliasoneraservercav2.cer
+TeliaSonera Server cav2.cer file.....: http://repository.trust.teliasonera.com/teliasoneraservercav2.cer
 ```
 
 ### Download and Backup your splash theme if you want to replace the splash theme during boot
@@ -135,7 +148,9 @@ Error: Unable to read name service address from file /tmp/nameservice_address de
 ⸮^@^@^@
 ```
 
-### I fouind the source of Arris firmware, it can be found on one firmware from my spider crawler
+### Firmware
+
+I found the source for Arris firmware, it can be found on url below (i created this script for find the firmwares)
 
 ```bash
 #!/usr/bin/env bash
@@ -178,9 +193,6 @@ done
 
 * [Firmware 4302Swe](http://wpc.97697.teliacdn.net/8097697/ott/stbimage-4302Swe)
 * [Firmware 5305Swe](http://wpc.97697.teliacdn.net/8097697/ott/stbimage-5305Swe)
-
-![1](https://user-images.githubusercontent.com/26827453/179757161-c131d9a0-0126-4754-b130-2de316f1bfb0.png)
-
 
 ### Download currnet kernel (mask this part so we wont show who we are)
 
