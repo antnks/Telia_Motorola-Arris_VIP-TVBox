@@ -1,4 +1,4 @@
-# TV-box_Telia_Arris_VIP4302
+# Telia_Motortola-Arris_VIP-TVBox
 
 ### General Info
 
